@@ -1,8 +1,6 @@
 # GlowFit 👕✨
 
-GlowFit is a responsive clothing e-commerce website developed using
-HTML, CSS, and JavaScript. The project provides a simple and user-friendly
-interface for browsing clothing products and accessing a login page.
+GlowFit is a responsive clothing e-commerce website developed using HTML, CSS, and JavaScript. The project provides a simple and user-friendly interface for browsing clothing products and accessing a login page.
 
 ## 🚀 Features
 
@@ -24,36 +22,33 @@ interface for browsing clothing products and accessing a login page.
 
 ## 📂 Project Structure
 
-```text
-└── README.md
-GlowFit/
-│
-├── index.html
-├── index.htm
-├── login.html
-├── style.css
-├── script.js
-├── 4ca99c216c957525f468570de2dc62ba.jpg
-└── README.md
+- index.html — Homepage
+- index.htm — HTML file
+- login.html — Login page
+- style.css — Website styling
+- script.js — JavaScript functionality
+- 4ca99c216c957525f468570de2dc62ba.jpg — Project image
+- README.md — Project documentation
+
 ## 🎯 Project Objective
 
-The objective of GlowFit is to develop a simple and responsive clothing
-website while gaining practical experience in frontend web development,
-UI design, JavaScript, and version control using Git and GitHub.
+The objective of GlowFit is to develop a simple and responsive clothing website while gaining practical experience in frontend web development, UI design, JavaScript, and version control using Git and GitHub.
 
-💡 Future Improvements
-Add shopping cart functionality
-Add product filtering and search
-Add user authentication
-Integrate a backend and database
-Add online payment functionality
-Deploy the website online
-👩‍💻 Developer
+## 💡 Future Improvements
+
+- Add shopping cart functionality
+- Add product filtering and search
+- Add user authentication
+- Integrate a backend and database
+- Add online payment functionality
+- Deploy the website online
+
+## 👩‍💻 Developer
 
 Bhumika Hindurav Kokane
 
 B.Tech Computer Science & IT Student
 
-📌 Project Status
+## 📌 Project Status
 
 🚧 Currently under development.
