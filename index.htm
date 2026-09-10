@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>GlowFit - Fashion Store</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header>
+        <h1>GlowFit ✨</h1>
+
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#shop">Shop</a>
+            <a href="#women">Women</a>
+            <a href="#men">Men</a>
+            <a href="#contact">Contact</a>
+            <a href="login.html">Login</a>
+        </nav>
+    </header>
+
+
+    <!-- HERO -->
+    <section class="hero" id="home">
+
+        <div class="hero-content">
+            <h2>Wear Your Glow ✨</h2>
+
+            <p>
+                Discover your style with GlowFit
+            </p>
+
+            <button onclick="scrollToShop()">
+                Shop Now
+            </button>
+        </div>
+
+    </section>
+
+
+    <!-- PRODUCTS -->
+    <section class="shop" id="shop">
+
+        <h2>Featured Products</h2>
+
+        <div class="products">
+
+
+            <!-- PRODUCT 1 -->
+            <div class="card">
+
+                <img src="images/tshirt.jpg"
+                     alt="Oversized T-Shirt">
+
+                <h3>Oversized T-Shirt</h3>
+
+                <p>₹799</p>
+
+                <button onclick="addToCart('Oversized T-Shirt')">
+                    Add To Cart
+                </button>
+
+            </div>
+
+
+            <!-- PRODUCT 2 -->
+            <div class="card">
+
+                <img src="images/hoodie.jpg"
+                     alt="GlowFit Hoodie">
+
+                <h3>GlowFit Hoodie</h3>
+
+                <p>₹1299</p>
+
+                <button onclick="addToCart('GlowFit Hoodie')">
+                    Add To Cart
+                </button>
+
+            </div>
+
+
+            <!-- PRODUCT 3 -->
+            <div class="card">
+
+                <img src="images/shoes.jpg"
+                     alt="Sports Shoes">
+
+                <h3>Sports Shoes</h3>
+
+                <p>₹1999</p>
+
+                <button onclick="addToCart('Sports Shoes')">
+                    Add To Cart
+                </button>
+
+            </div>
+
+
+            <!-- PRODUCT 4 -->
+            <div class="card">
+
+                <img src="images/dress.jpg"
+                     alt="Floral Dress">
+
+                <h3>Floral Dress</h3>
+
+                <p>₹999</p>
+
+                <button onclick="addToCart('Floral Dress')">
+                    Add To Cart
+                </button>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ABOUT -->
+    <section class="about">
+
+        <h2>About GlowFit</h2>
+
+        <p>
+            GlowFit is a modern fashion store where style,
+            comfort and confidence come together.
+        </p>
+
+    </section>
+
+
+    <!-- CONTACT -->
+    <section class="contact" id="contact">
+
+        <h2>Contact Us</h2>
+
+        <p>Email: glowfit@example.com</p>
+
+        <p>Phone: +91 9876543210</p>
+
+    </section>
+
+
+    <!-- FOOTER -->
+    <footer>
+
+        <p>© 2026 GlowFit. All Rights Reserved.</p>
+
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>
