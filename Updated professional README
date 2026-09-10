@@ -1,0 +1,35 @@
+# GlowFit 👕✨
+
+GlowFit is a responsive clothing e-commerce website developed using
+HTML, CSS, and JavaScript. The project provides a simple and user-friendly
+interface for browsing clothing products and accessing a login page.
+
+## 🚀 Features
+
+- Responsive and modern clothing website
+- Attractive homepage
+- Product showcase section
+- Login page
+- Interactive navigation
+- Clean and user-friendly UI
+- Product images and pricing
+- Responsive design for different screen sizes
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+## 📂 Project Structure
+
+```text
+GlowFit/
+│
+├── index.html
+├── login.html
+├── style.css
+├── script.js
+├── images/
+└── README.md
