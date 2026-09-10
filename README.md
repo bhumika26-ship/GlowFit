@@ -25,6 +25,7 @@ interface for browsing clothing products and accessing a login page.
 ## 📂 Project Structure
 
 ```text
+└── README.md
 GlowFit/
 │
 ├── index.html
@@ -34,7 +35,7 @@ GlowFit/
 ├── script.js
 ├── 4ca99c216c957525f468570de2dc62ba.jpg
 └── README.md
-🎯 Project Objective
+## 🎯 Project Objective
 
 The objective of GlowFit is to develop a simple and responsive clothing
 website while gaining practical experience in frontend web development,
